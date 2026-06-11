@@ -28,7 +28,7 @@ Senior Lead Software Engineer with 8+ years of experience architecting enterpris
 
 - 🔹 Architecting scalable Microservices & Distributed Systems
 - 🔹 Azure Cloud Solution Design & Enterprise Integration
-- 🔹 Expert in .NET Core, Angular 18, Azure & CI/CD
+- 🔹 Expert in .NET Core, Angular 20, Azure & CI/CD
 - 🔹 Improved database performance by 30%
 - 🔹 Reduced deployment cycle time by 40%
 - 🔹 Leading architecture reviews, HLD/LLD and engineering teams
